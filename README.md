@@ -7,6 +7,7 @@ https://qgthurier.shinyapps.io/gpseek/
 
 ![Screenshot](https://github.com/GPSeek/GPSeek/blob/master/images/GPSeek%20Shinyapp%20prototype%20screenshot.png)
 
+[Screen recording](https://youtu.be/KQh95d7fCcM)
 
 # Building and running
 
