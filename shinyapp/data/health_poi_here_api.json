@@ -1,0 +1,937 @@
+{
+  "results" : {
+    "next" : "https://places.cit.api.here.com/places/v1/discover/explore;context=Y2F0PWhvc3BpdGFsJTJDaG9zcGl0YWwtaGVhbHRoLWNhcmUtZmFjaWxpdHkmZmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmb2Zmc2V0PTUwJnNpemU9NTA?at=-43.533%2C172.6352&app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+    "items" : [ {
+      "position" : [ -43.54065, 172.64371 ],
+      "distance" : 1093,
+      "title" : "Family Planning",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "9 Washington Way<br/>Sydenham<br/>Christchurch 8011",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb6b2-e5427dc326ce4cb99f3288af4be1083c;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0w?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb6b2-e5427dc326ce4cb99f3288af4be1083c"
+    }, {
+      "position" : [ -43.5705, 172.62116 ],
+      "distance" : 4321,
+      "title" : "The Princess Margaret Hospital",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "Cashmere<br/>Christchurch 8022",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb6b0-0d51536f88c5489fa0007e46955a40f3;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0x?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb6b0-0d51536f88c5489fa0007e46955a40f3"
+    }, {
+      "position" : [ -43.520773, 172.633589 ],
+      "distance" : 1366,
+      "title" : "Southern Cross Radiology",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "Bealey Ave<br/>Christchurch Central<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb6b2-21ae2c6f987540f6bd2927ef29c5e672;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0y?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb6b2-21ae2c6f987540f6bd2927ef29c5e672"
+    }, {
+      "position" : [ -43.50984, 172.61939 ],
+      "distance" : 2874,
+      "title" : "St Georges Hospital",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "249 Papanui Rd<br/>Strowan<br/>Christchurch 8014",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb6b2-eb24e4b72006424c91e077e8b71572f5;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0z?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb6b2-eb24e4b72006424c91e077e8b71572f5"
+    }, {
+      "position" : [ -43.534538, 172.626593 ],
+      "distance" : 715,
+      "title" : "Christchurch Hospital-ER",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "2 Riccarton Ave<br/>Christchurch Central<br/>Christchurch 8011",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb6b2-1be17e47ba3443f3ae38b61fe4c6b7d5;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz00?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb6b2-1be17e47ba3443f3ae38b61fe4c6b7d5"
+    }, {
+      "position" : [ -43.54072, 172.63971 ],
+      "distance" : 932,
+      "title" : "Moorhouse Medical Centre",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "3 Pilgrim Pl<br/>Sydenham<br/>Christchurch 8011",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb6b2-4df133a89ab847178b96e65b3ce7606a;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz01?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb6b2-4df133a89ab847178b96e65b3ce7606a"
+    }, {
+      "position" : [ -43.50847, 172.5689 ],
+      "distance" : 6001,
+      "title" : "Avonhead Dental Centre",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "62 Grahams Rd<br/>Burnside<br/>Christchurch 8041",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb68q-04cd5e37a0484d7abd4e0d1a9cacd3cf;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz02?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb68q-04cd5e37a0484d7abd4e0d1a9cacd3cf"
+    }, {
+      "position" : [ -43.53438, 172.67513 ],
+      "distance" : 3223,
+      "title" : "Linwood Avenue Medical Centre",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "279 Linwood Ave<br/>Linwood<br/>Christchurch 8062",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb6b3-3203b755701b4da1aaa657a137a75961;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz03?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb6b3-3203b755701b4da1aaa657a137a75961"
+    }, {
+      "position" : [ -43.547918, 172.587724 ],
+      "distance" : 4171,
+      "title" : "Hillmorton Hospital",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "Annex Rd<br/>Middleton<br/>Christchurch 8024",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb68p-4d2eca78ffb94bd7814dcc51f3456832;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz04?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb68p-4d2eca78ffb94bd7814dcc51f3456832"
+    }, {
+      "position" : [ -43.49458, 172.60257 ],
+      "distance" : 5017,
+      "title" : "Wesley Care",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "91 Harewood Rd<br/>Papanui<br/>Christchurch 8053",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb68x-d77d7bfa18b947b0b04ea7235af74763;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz05?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb68x-d77d7bfa18b947b0b04ea7235af74763"
+    }, {
+      "position" : [ -43.53382, 172.6318 ],
+      "distance" : 289,
+      "title" : "Smile Company",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "Cambridge Ter<br/>Christchurch Central<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-32ebb46d9b67023cd0ad9ae402e8bf2b;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0xMA?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-32ebb46d9b67023cd0ad9ae402e8bf2b"
+    }, {
+      "position" : [ -43.53327, 172.63035 ],
+      "distance" : 392,
+      "title" : "Child & Family Specialty Services",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "44 Cashel St<br/>Christchurch Central<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-8ec6fc83c3050abc006a4a70e3c7cb4b;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0xMQ?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-8ec6fc83c3050abc006a4a70e3c7cb4b"
+    }, {
+      "position" : [ -43.53659, 172.63642 ],
+      "distance" : 411,
+      "title" : "Health and Sports Centre",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "Colombo St<br/>Christchurch Central<br/>Christchurch 8011",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb6b2-76d8fc9168924a548ca9712a3228a431;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0xMg?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb6b2-76d8fc9168924a548ca9712a3228a431"
+    }, {
+      "position" : [ -43.52975, 172.63237 ],
+      "distance" : 427,
+      "title" : "Lumino",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "Gloucester St<br/>Christchurch Central<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-93b8bbd9a2e008e1b8d1f99a66945efd;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0xMw?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-93b8bbd9a2e008e1b8d1f99a66945efd"
+    }, {
+      "position" : [ -43.53447, 172.64023 ],
+      "distance" : 437,
+      "title" : "Hataitai Medical Practice",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "High St<br/>Christchurch Central<br/>Christchurch 8011",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-7d86b4a17b3a018141bd082cdfc8c0fc;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0xNA?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-7d86b4a17b3a018141bd082cdfc8c0fc"
+    }, {
+      "position" : [ -43.533, 172.62934 ],
+      "distance" : 472,
+      "title" : "Timeout Carers",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "27 Cashel St<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/5548lxx5-952211a12a9f0ad92a23adc29d003899;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0xNQ?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "5548lxx5-952211a12a9f0ad92a23adc29d003899"
+    }, {
+      "position" : [ -43.5322, 172.62878 ],
+      "distance" : 525,
+      "title" : "Muscle People",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "Hereford St<br/>Christchurch Central<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-27c3ec05fd6a0e73e935d1d44401d9a4;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0xNg?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-27c3ec05fd6a0e73e935d1d44401d9a4"
+    }, {
+      "position" : [ -43.52892, 172.6316 ],
+      "distance" : 539,
+      "title" : "Curtis Vision One Optometrists",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "58 Armagh St<br/>Christchurch Central<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb6b2-8306a0fa6181430fbbae460f6d1493ed;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0xNw?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb6b2-8306a0fa6181430fbbae460f6d1493ed"
+    }, {
+      "position" : [ -43.533, 172.6283 ],
+      "distance" : 556,
+      "title" : "Lucid Psychotherapy & Counselling",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "7 Cashel St<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/5548lxx5-58a77ff5678c0cfd58bb6eae86e56113;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0xOA?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "5548lxx5-58a77ff5678c0cfd58bb6eae86e56113"
+    }, {
+      "position" : [ -43.53221, 172.62828 ],
+      "distance" : 565,
+      "title" : "Muscle People Physiotherapy",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "12 Hereford St<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/5548lxx5-573b21e2d73404947f79622c27eb40e0;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0xOQ?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "5548lxx5-573b21e2d73404947f79622c27eb40e0"
+    }, {
+      "position" : [ -43.53825, 172.63649 ],
+      "distance" : 593,
+      "title" : "Jenny Craig",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "Colombo St<br/>Christchurch Central<br/>Christchurch 8011",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-13c81e32a7280197bcb5b612f0213c81;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0yMA?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-13c81e32a7280197bcb5b612f0213c81"
+    }, {
+      "position" : [ -43.53316, 172.62767 ],
+      "distance" : 607,
+      "title" : "Doctors on Cashel",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "Cashel St<br/>Christchurch Central<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-c4fcc2715ad10a111d0f982c2472dbe5;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0yMQ?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-c4fcc2715ad10a111d0f982c2472dbe5"
+    }, {
+      "position" : [ -43.5384, 172.63044 ],
+      "distance" : 713,
+      "title" : "Pacific Health Clinic",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "173 Montreal St<br/>Christchurch Central<br/>Christchurch 8011",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-160526d1c2de0c9902dd72cd919cffe5;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0yMg?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-160526d1c2de0c9902dd72cd919cffe5"
+    }, {
+      "position" : [ -43.53828, 172.6289 ],
+      "distance" : 776,
+      "title" : "Gribbles Veterinary Pathology",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "Halkett St<br/>Christchurch Central<br/>Christchurch 8011",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb6b2-5993d2afd48f43bdb3c9607d9584c562;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0yMw?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb6b2-5993d2afd48f43bdb3c9607d9584c562"
+    }, {
+      "position" : [ -43.52646, 172.63871 ],
+      "distance" : 780,
+      "title" : "Menzmedical",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "155 Kilmore St<br/>Christchurch Central<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-3470e50b7a0d078ea75def7f688102b9;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0yNA?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-3470e50b7a0d078ea75def7f688102b9"
+    }, {
+      "position" : [ -43.53298, 172.64494 ],
+      "distance" : 785,
+      "title" : "Hereford Centre",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "Cashel St<br/>Christchurch Central<br/>Christchurch 8011",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb6b2-c087c90d37f94eaba693a865f6f888f4;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0yNQ?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb6b2-c087c90d37f94eaba693a865f6f888f4"
+    }, {
+      "position" : [ -43.53628, 172.62629 ],
+      "distance" : 806,
+      "title" : "Blood Transfusion Service",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "St Asaph St<br/>Christchurch Central<br/>Christchurch 8011",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb6b2-22c81a061cf44106a7f95efe207d382c;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0yNg?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb6b2-22c81a061cf44106a7f95efe207d382c"
+    }, {
+      "position" : [ -43.52584, 172.63231 ],
+      "distance" : 830,
+      "title" : "Foate Optometrists",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "67 Victoria<br/>Christchurch 8011",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/5548lxx5-52c87e8796f80b89ea36bd7a08942114;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0yNw?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "5548lxx5-52c87e8796f80b89ea36bd7a08942114"
+    }, {
+      "position" : [ -43.534542, 172.625115 ],
+      "distance" : 831,
+      "title" : "Christchurch Hospital",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital",
+        "title" : "医院",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "2 Riccarton Ave<br/>Christchurch Central<br/>Christchurch 8011",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb6b2-d4f0b78c54924e7ea2a9a1130cc13b9a;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0yOA?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb6b2-d4f0b78c54924e7ea2a9a1130cc13b9a"
+    }, {
+      "position" : [ -43.534542, 172.625115 ],
+      "distance" : 831,
+      "title" : "Christchurch Women's Hospital",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "2 Riccarton Ave<br/>Christchurch Central<br/>Christchurch 8011",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb6b2-756d7abb6b36488e9977b322878c4484;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0yOQ?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb6b2-756d7abb6b36488e9977b322878c4484"
+    }, {
+      "position" : [ -43.52562, 172.63755 ],
+      "distance" : 842,
+      "title" : "Urology Associates",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "132 Peterborough Street<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/5548lxx5-962d1edc51c7085bc44a098f537ee589;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0zMA?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "5548lxx5-962d1edc51c7085bc44a098f537ee589"
+    }, {
+      "position" : [ -43.52537, 172.6362 ],
+      "distance" : 852,
+      "title" : "Medacs",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "Peterborough St<br/>Christchurch Central<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-98bb3794b89e045f2c1fe309a1edf36f;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0zMQ?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-98bb3794b89e045f2c1fe309a1edf36f"
+    }, {
+      "position" : [ -43.52532, 172.6368 ],
+      "distance" : 864,
+      "title" : "Mhaps",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "826 Colombo St<br/>Christchurch Central<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-7319e5f888440b1b1e5c5c597be22586;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0zMg?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-7319e5f888440b1b1e5c5c597be22586"
+    }, {
+      "position" : [ -43.52537, 172.63818 ],
+      "distance" : 882,
+      "title" : "Forte Health",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "Peterborough St<br/>Christchurch Central<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-8202638ed6d607665b400628fbd8a49d;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0zMw?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-8202638ed6d607665b400628fbd8a49d"
+    }, {
+      "position" : [ -43.54073, 172.63845 ],
+      "distance" : 899,
+      "title" : "Moorhouse Osteopathic Centre",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "7 Pilgrim Pl<br/>Sydenham<br/>Christchurch 8011",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb6b2-e098671fe84c4f7782daa8e04e244657;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0zNA?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb6b2-e098671fe84c4f7782daa8e04e244657"
+    }, {
+      "position" : [ -43.53001, 172.64586 ],
+      "distance" : 921,
+      "title" : "298 Youth Health Centre",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "298 Barbadoes St<br/>Christchurch Central<br/>Christchurch 8011",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-0df7ddbe00c10518dfeffa80f28999fc;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0zNQ?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-0df7ddbe00c10518dfeffa80f28999fc"
+    }, {
+      "position" : [ -43.542425, 172.634344 ],
+      "distance" : 1050,
+      "title" : "Nest",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "33 Sandyford St<br/>Sydenham<br/>Christchurch 8023",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-e70f2e48ddf00b815d5b6428abbc9b74;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0zNg?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-e70f2e48ddf00b815d5b6428abbc9b74"
+    }, {
+      "position" : [ -43.52645, 172.64515 ],
+      "distance" : 1083,
+      "title" : "The Herb Centre",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "223 Kilmore St<br/>Christchurch Central<br/>Christchurch 8011",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-113076c7225501cde3258ef5d6a1e8ef;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0zNw?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-113076c7225501cde3258ef5d6a1e8ef"
+    }, {
+      "position" : [ -43.52352, 172.63984 ],
+      "distance" : 1119,
+      "title" : "Community and Public Health",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "310 Manchester St<br/>Christchurch Central<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-3f79d97a09e20a8ffe454a334e96d36b;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0zOA?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-3f79d97a09e20a8ffe454a334e96d36b"
+    }, {
+      "position" : [ -43.54243, 172.64015 ],
+      "distance" : 1122,
+      "title" : "Southern Rehab",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "29 Byron St<br/>Sydenham<br/>Christchurch 8023",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-05a6c71cf318084f5710d03056382b37;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz0zOQ?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-05a6c71cf318084f5710d03056382b37"
+    }, {
+      "position" : [ -43.54133, 172.64348 ],
+      "distance" : 1142,
+      "title" : "Triex",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "49 Carlyle St<br/>Sydenham<br/>Christchurch 8023",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-27cdd8cf7e8c024a8c7a704b53337505;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz00MA?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-27cdd8cf7e8c024a8c7a704b53337505"
+    }, {
+      "position" : [ -43.5267, 172.64637 ],
+      "distance" : 1141,
+      "title" : "Advanced Ceramics",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "234 Kilmore St<br/>Christchurch Central<br/>Christchurch 8011",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-2a220241423506bb2a9ef1675a5fb1e5;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz00MQ?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-2a220241423506bb2a9ef1675a5fb1e5"
+    }, {
+      "position" : [ -43.53408, 172.64978 ],
+      "distance" : 1181,
+      "title" : "Comcare",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "Lichfield St<br/>Christchurch Central<br/>Christchurch 8011",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-acaf87e346d40993c01246b0c9aa463e;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz00Mg?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-acaf87e346d40993c01246b0c9aa463e"
+    }, {
+      "position" : [ -43.52157, 172.63755 ],
+      "distance" : 1285,
+      "title" : "Pegasus Health",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "160 Bealey Ave<br/>Christchurch Central<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-f256d92be2e20e08912495263406182e;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz00Mw?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-f256d92be2e20e08912495263406182e"
+    }, {
+      "position" : [ -43.52127, 172.63678 ],
+      "distance" : 1311,
+      "title" : "Christchurch Doctors",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "Colombo St<br/>Christchurch Central<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-367d4090580f05497ad4d859fc67e9cf;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz00NA?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-367d4090580f05497ad4d859fc67e9cf"
+    }, {
+      "position" : [ -43.54486, 172.63585 ],
+      "distance" : 1320,
+      "title" : "Sydenham Dental Centre",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "Wordsworth St<br/>Sydenham<br/>Christchurch 8023",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-46c2ac3f8309024d1f660603077f6341;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz00NQ?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-46c2ac3f8309024d1f660603077f6341"
+    }, {
+      "position" : [ -43.52109, 172.6346 ],
+      "distance" : 1325,
+      "title" : "The Bealey Clinic",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "110 Bealey Ave<br/>Christchurch Central<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb6b2-bcd37b3964c74ac29a64fdd681cc33fb;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz00Ng?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb6b2-bcd37b3964c74ac29a64fdd681cc33fb"
+    }, {
+      "position" : [ -43.52108, 172.63691 ],
+      "distance" : 1333,
+      "title" : "Cambridge Clinic",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "Bealey Ave<br/>Christchurch Central<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554jx7ps-e01001cb70a20266a91394e83823fd49;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz00Nw?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554jx7ps-e01001cb70a20266a91394e83823fd49"
+    }, {
+      "position" : [ -43.52108, 172.63774 ],
+      "distance" : 1341,
+      "title" : "The Travel Doctor Christchurch",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "156 Bealey Ave Christchurch Central<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/5548lxx5-e0c39aaec0dc08f987414aec95400e27;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz00OA?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "5548lxx5-e0c39aaec0dc08f987414aec95400e27"
+    }, {
+      "position" : [ -43.52108, 172.63774 ],
+      "distance" : 1341,
+      "title" : "Sportsmed",
+      "averageRating" : 0.0,
+      "category" : {
+        "id" : "hospital-health-care-facility",
+        "title" : "医院或护理机构",
+        "href" : "https://places.cit.api.here.com/places/v1/categories/places/hospital-health-care-facility?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+        "type" : "urn:nlp-types:category",
+        "system" : "places"
+      },
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "vicinity" : "156 Bealey Ave<br/>Christchurch Central<br/>Christchurch 8013",
+      "having" : [ ],
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/554rb6b2-07d387ace4fe43a091a327e12450a1fa;context=Zmxvdy1pZD0xZDMyM2YxYS0xNGRlLTU1M2YtODE0MC0xOWZmNzM1ZjY2OWVfMTUwMTI5NTE3NzkwMF8wXzY2MjYmcmFuaz00OQ?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q",
+      "id" : "554rb6b2-07d387ace4fe43a091a327e12450a1fa"
+    }, {
+      "title" : "医院",
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "type" : "urn:nlp-types:search",
+      "href" : "https://places.cit.api.here.com/places/v1/discover/explore;context=Y2F0PWhvc3BpdGFsJmZsb3ctaWQ9MWQzMjNmMWEtMTRkZS01NTNmLTgxNDAtMTlmZjczNWY2NjllXzE1MDEyOTUxNzc5MDBfMF82NjI2JnNpemU9NTA?at=-43.533%2C172.6352&app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q"
+    }, {
+      "title" : "医院或护理机构",
+      "icon" : "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/26.icon",
+      "type" : "urn:nlp-types:search",
+      "href" : "https://places.cit.api.here.com/places/v1/discover/explore;context=Y2F0PWhvc3BpdGFsLWhlYWx0aC1jYXJlLWZhY2lsaXR5JmZsb3ctaWQ9MWQzMjNmMWEtMTRkZS01NTNmLTgxNDAtMTlmZjczNWY2NjllXzE1MDEyOTUxNzc5MDBfMF82NjI2JnNpemU9NTA?at=-43.533%2C172.6352&app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q"
+    } ]
+  },
+  "search" : {
+    "context" : {
+      "location" : {
+        "position" : [ -43.533, 172.6352 ],
+        "address" : {
+          "text" : "101 Cashel St<br/>Christchurch Central<br/>Christchurch 8011<br/>新西兰",
+          "house" : "101",
+          "street" : "Cashel St",
+          "postalCode" : "8011",
+          "district" : "Christchurch Central",
+          "city" : "Christchurch",
+          "county" : "Christchurch City",
+          "stateCode" : "Canterbury",
+          "country" : "新西兰",
+          "countryCode" : "NZL"
+        }
+      },
+      "type" : "urn:nlp-types:place",
+      "href" : "https://places.cit.api.here.com/places/v1/places/loc-dmVyc2lvbj0xO3RpdGxlPTEwMStDYXNoZWwrU3Q7bGF0PS00My41MzM7bG9uPTE3Mi42MzUyO3N0cmVldD1DYXNoZWwrU3Q7aG91c2U9MTAxO2NpdHk9Q2hyaXN0Y2h1cmNoO3Bvc3RhbENvZGU9ODAxMTtjb3VudHJ5PU5aTDtkaXN0cmljdD1DaHJpc3RjaHVyY2grQ2VudHJhbDtzdGF0ZUNvZGU9Q2FudGVyYnVyeTtjb3VudHk9Q2hyaXN0Y2h1cmNoK0NpdHk7Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw;context=c2VhcmNoQ29udGV4dD0x?app_id=5pZnXwF6fCPsS5W7EC1t&app_code=SbTCjJ7X_Zr-_Rod9Y8w4Q"
+    }
+  }
+}
